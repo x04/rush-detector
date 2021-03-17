@@ -1,6 +1,6 @@
 # rush-detector
 
-the readme is basically in http2\server.go around like 1560.
+the readme is basically in http2\server.go around line 1560.
 
 video:
 https://streamable.com/dfxze3
