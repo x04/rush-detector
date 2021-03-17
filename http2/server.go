@@ -1594,8 +1594,8 @@ func (sc *serverConn) processSettings(f *SettingsFrame) error {
 	// with cncpts (the code to do it is literally open source btw, not flexing at all it's simple).
 	//
 	// greetings to nebula fam, veritas, haze (even tho he a bitch), archie (see previous statement),
-	// flexagon (femboy), and i was going to do more but basically if you're the slightest bit active 
-	// in blast you're meant to be part of this list.
+	// flexagon (annoying femboy), and i was going to do more but basically if you're the slightest bit
+	// active in blast you're meant to be part of this list.
 	//
 	// goodbye.
 	if sc.clientMaxStreams == 100 {
